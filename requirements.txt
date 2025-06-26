@@ -1,0 +1,7 @@
+protobuf==4.25.3
+PyPDF2==3.0.1
+python-dotenv==1.1.1
+streamlit==1.37.1
+streamlit==1.45.1
+~treamlit==1.18.1
+~treamlit==1.45.1
